@@ -1,4 +1,4 @@
-# hamara-gne
+# hamara-gne demo
 
 this is my demo repository
 <br>
